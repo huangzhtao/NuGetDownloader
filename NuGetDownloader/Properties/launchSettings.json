@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NuGetDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "-p Microsoft.EntityFrameworkCore  -f .NETStandard2.0 -d"
+    }
+  }
+}
